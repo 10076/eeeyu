@@ -4,6 +4,7 @@
 今天果靠当天种  
 手中经要心里颂  
 对天对地圆我梦
+测试测试
 
 <!---
 ninestate/ninestate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
